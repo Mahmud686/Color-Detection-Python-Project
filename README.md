@@ -1,1 +1,1 @@
-# Color-Detection-using-ML
+# Color-Detection-Python-Project
